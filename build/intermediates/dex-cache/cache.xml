@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="675f9cfaa7502523eb3c22cf461f5aab5265e5ea">
+        <dex dex="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/pre-dexed/debug/instant-run-bootstrap_168701a871ed6659a73a30c6cebddf1d615e9c66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drore/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_51bf71ec86b13a41bcda17a17042a791ddf316ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.1_9e9473841cca462ec6d9ab911317eb95fb8a1a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_ac42979ab5b23b73bba5187913340ace6a1e2537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/exploded-aar/WeiboSDKDemo-master/weiboSDK/unspecified/jars/libs/weibosdkcore_release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ac2a9a64d7c97f36398f517045816f9043f07f93">
+        <dex dex="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/pre-dexed/debug/weibosdkcore_release_064ca5d412a28ea71f592e7d46370e695680beeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="484d7f5a541161c4282112d955779844689c1569">
+        <dex dex="/Users/drore/Downloads/WeiboSDKDemo-master/weiboSDKDemo/build/intermediates/pre-dexed/debug/instant-run_64e93a14c11f67388e885558a361a954cc118055.jar" />
+    </item>
+
+</items>
